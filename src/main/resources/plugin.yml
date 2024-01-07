@@ -1,0 +1,8 @@
+name: Viveri
+version: '${version}'
+main: co.akoot.plugins.viveri.Viveri
+api-version: '1.20'
+prefix: VI
+author: Akoot_
+website: https://akoot.cp/plugins/viveri
+softdepend: [ 'BlueFox' ]
