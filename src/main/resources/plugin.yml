@@ -1,4 +1,4 @@
-name: Viveri
+name: MooseCraft
 version: '${version}'
 main: co.akoot.plugins.viveri.Viveri
 api-version: '1.20'
