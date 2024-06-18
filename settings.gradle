@@ -1,2 +1,3 @@
-rootProject.name = 'viveri'
+rootProject.name = 'commedore'
 include(':bluefox')
+project(':bluefox').projectDir = new File('../bluefox')
