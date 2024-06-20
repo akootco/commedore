@@ -7,7 +7,6 @@ class Commedore : JavaPlugin() {
 
     override fun onEnable() {
         logger.info("We are eating good tonight!")
-        BlueFox.trace("hehehe.. - Commedore") // Test that PROVES we can reference BlueFox!!
     }
 
     override fun onDisable() {
